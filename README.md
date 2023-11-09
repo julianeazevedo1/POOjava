@@ -1,2 +1,2 @@
 # POOjava
- Curso de POO
+ Exercícios da faculdade
