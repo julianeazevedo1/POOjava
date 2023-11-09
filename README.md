@@ -1,2 +1,2 @@
 # POOjava
- Exercícios da faculdade
+ Exercícios da faculdade.
