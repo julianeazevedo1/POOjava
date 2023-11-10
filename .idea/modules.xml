@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Excecao/Excecao.iml" filepath="$PROJECT_DIR$/Excecao/Excecao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HerencaMultipla10.2/HerencaMultipla10.2.iml" filepath="$PROJECT_DIR$/HerencaMultipla10.2/HerencaMultipla10.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaMultipla10.2/HerancaMultipla10.2.iml" filepath="$PROJECT_DIR$/HerancaMultipla10.2/HerancaMultipla10.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POOjava.iml" filepath="$PROJECT_DIR$/.idea/POOjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolimorfismoParte2/PolimorfismoParte2.iml" filepath="$PROJECT_DIR$/PolimorfismoParte2/PolimorfismoParte2.iml" />
     </modules>
